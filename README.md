@@ -15,7 +15,8 @@ This POC aims to use natural language to search for a type of facility around a 
 
 ## Scope
 
-Limited to 5 facility types: {"Tennis Court", "Badminton Courts", "Basketball Court", "Table Tennis Room", "Soccer Field"}
-Limited to 3 days
-Prices are excluded (invoked when user chose an area instead of individual facility, use https://www.onepa.gov.sg/pacesapi/facilitysearch/searchjson?facility=BADMINTON%20COURTS&outlet=Tampines&date=20/09/2023&time=all&page=1&division=)
+* Limited to 5 facility types: {"Tennis Court", "Badminton Courts", "Basketball Court", "Table Tennis Room", "Soccer Field"}
+* Limited to 3 days
+* Prices are excluded (invoked when user chose an area instead of individual facility, use https://www.onepa.gov.sg/pacesapi/facilitysearch/searchjson?facility=BADMINTON%20COURTS&outlet=Tampines&date=20/09/2023&time=all&page=1&division=)
+
 AI Trailblazer progamme - PA tech review notes. https://docs.google.com/document/d/1uPsOJpZzgJY5msLn3iQgcXNc3zhMImClhfvh25mBKU0/edit
